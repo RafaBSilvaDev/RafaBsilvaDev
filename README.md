@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning html, css, javascript and mySQL
+- 🌱 I’m currently learning java and angular
 - 📫 How to reach me: barbosarafael447@gmail.com
 - 😄 Pronouns: he/his
 <div>
