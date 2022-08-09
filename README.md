@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning java and angular
+- 🌱 I’m currently learning spring boot and vue.js
 - 📫 How to reach me: barbosarafael447@gmail.com
 - 😄 Pronouns: he/his
 <div>
