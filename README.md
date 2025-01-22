@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning spring boot, vuejs and reactjs
 - 📫 How to reach me: barbosarafael447@gmail.com
-- 😄 Pronouns: he/his
 <div>
   <a href="https://github.com/RafaBSilvaDev">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=RafaBsilvaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
